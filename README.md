@@ -30,6 +30,7 @@ Currently doing research at **Stanford's Vasanawala Lab** on accelerated MRI rec
 
 - 2x USAMO Qualifier (2022, 2023)
 - Caltech Math Club -- coordinated 2025 & 2026 Caltech Math Meet
+- Caltech Quant Club
 - TA for Decidability & Tractability at Caltech
 
 ### Tools
